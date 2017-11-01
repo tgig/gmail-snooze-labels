@@ -11,7 +11,7 @@ Thanks to <a href="https://gmail.googleblog.com/2011/07/gmail-snooze-with-apps-s
 3. Click "Tools > Script Editor"
 4. Paste the script in Snooze.js
 5. Run the function "setup", which will create the labels in your gmail account
-6. Create a timer to execute the logic every morning. "Resources > Current projects triggers". Run "moveSnoozes", events "Time-driven", "Day-timer", "1am to 2am"
+6. Create a timer to execute the logic every morning. "Edit > Current projects triggers". Run "moveSnoozes", events "Time-driven", "Day-timer", "1am to 2am"
 
 That's it. If you refresh your gmail account you will see the new labels.
 
